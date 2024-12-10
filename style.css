@@ -71,7 +71,7 @@ main {
     gap: 17px;
 }
 
-#card_header p {
+.card_header p {
     font-size: 11px;
     font-weight: 500;
 
@@ -146,7 +146,8 @@ main {
 
 @media (min-width: 768px) {
     main {
-        max-width: 1000px;
+        margin-top: 10%;
+        max-width: 1440px;
         margin-inline: auto;
         display: grid;
         gap: 24px;
