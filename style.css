@@ -147,7 +147,7 @@ main {
 @media (min-width: 768px) {
     main {
         margin-top: 10%;
-        max-width: 1440px;
+        max-width: 1200px;
         margin-inline: auto;
         display: grid;
         gap: 24px;
